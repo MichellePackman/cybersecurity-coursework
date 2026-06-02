@@ -1,6 +1,6 @@
 Projects and assignments completed during my BS in Cybersecurity
 
-#Coursework
+# Coursework
 A collection of projects and assignments completed 
 during my BS in Cybersecurity and Information Assurance.
 
